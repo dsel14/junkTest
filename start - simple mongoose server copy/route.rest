@@ -1,0 +1,6 @@
+POST http://localhost:3000/create
+Content-Type: application/json
+
+{
+  "myuri": "mongodb+srv://douglas:csis3380@cluster1.syihxvj.mongodb.net/Winter24"
+}
